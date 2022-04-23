@@ -1,0 +1,7 @@
+#SwitchBotRemote/App.config
+#SwitchBotRemote/bin/Release/SwitchBotRemote.exe.config
+SwitchBotRemote/API_Test/obj/
+SwitchBotRemote/SwitchBotRemote/obj/
+SwitchBotRemote/.vs/
+SwitchBotRemote/API_Test/.vs/
+SwitchBotRemote/SwitchBotRemote/.vs/

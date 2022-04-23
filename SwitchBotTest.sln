@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchBotAPI", "API_Test\SwitchBotAPI.csproj", "{1DF3B1E4-87BB-4AE3-989F-A0CE7406E457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchBotRemote", "SwitchBotRemote\SwitchBotRemote.csproj", "{1BF2F067-2FD3-4B1C-8E58-B875C1352AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF3B1E4-87BB-4AE3-989F-A0CE7406E457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF3B1E4-87BB-4AE3-989F-A0CE7406E457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF3B1E4-87BB-4AE3-989F-A0CE7406E457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF3B1E4-87BB-4AE3-989F-A0CE7406E457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF2F067-2FD3-4B1C-8E58-B875C1352AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF2F067-2FD3-4B1C-8E58-B875C1352AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF2F067-2FD3-4B1C-8E58-B875C1352AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF2F067-2FD3-4B1C-8E58-B875C1352AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F26DE6E6-F719-4ED3-934B-110703B2846B}
+	EndGlobalSection
+EndGlobal
